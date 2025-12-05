@@ -81,4 +81,8 @@ Paste it in the terminal
 You can go offline after download.
 
 ## Run the llama
-See the codes in the .ipynb file
+See an example .ipynb code to run the local llm in the folder. 
+
+For example code, I create a simple **document analyasis** prompt for evaluation of llm's license documentation, from which you can also get a basic understanding of how document analysis works by reading how the prompt is constructed.
+
+**Prompt testing** also uses the same coding logic, just change the prompt and input data, you are all set to begin.
